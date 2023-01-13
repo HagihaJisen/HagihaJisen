@@ -21,4 +21,4 @@ Futuro desenvolvedor web  🖥️
 </div></br>
 Compartilhando e aprendendo conhecimentos em programação. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HagihaJisen&layout=compact)](https://github.com/HagihaJisen/github-readme-stats)
+
