@@ -22,6 +22,7 @@ Futuro desenvolvedor web  🖥️
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 </div></br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 Compartilhando e aprendendo conhecimentos em programação. 
 
 
